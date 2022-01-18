@@ -10,7 +10,7 @@ Principal Component Analysis (PCA) and the K-Means algorithm were used for this 
 
 ![](https://github.com/JonathanBrown003/Cryptocurrencies/blob/b351fbe082fa03fbf7908c37ab714bc2ab7c9497/Resources/Scatter.PNG)
 
-Tradeable Crypto was grouped into clusters using the K-Means algorithm:
+Tradeable Crypto was grouped into clusters using the K-Means algorithm (defined under "class" column):
 
 ![](https://github.com/JonathanBrown003/Cryptocurrencies/blob/b351fbe082fa03fbf7908c37ab714bc2ab7c9497/Resources/Tradeable.PNG)
 
